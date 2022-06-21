@@ -6,7 +6,7 @@
 
 body {
   padding-top: 100px;
-  display: grid; 
+  display: grid;
   place-items: center;
 }
 
@@ -34,7 +34,7 @@ body {
   padding: 10px;
 }
 
-.scores > p:nth-child(odd){
+.scores > p:nth-child(odd) {
   background-color: #ddd;
 }
 
