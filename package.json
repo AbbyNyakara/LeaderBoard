@@ -1,0 +1,31 @@
+{
+  "name": "leaderboard",
+  "version": "1.0.0",
+  "description": "A website to display the scores submitted by different players. It also allows the user to submit their scores. The data is preserved by an external API",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack serve --open",
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbbyNyakara/LeaderBoard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbbyNyakara/LeaderBoard/issues"
+  },
+  "homepage": "https://github.com/AbbyNyakara/LeaderBoard#readme",
+  "devDependencies": {
+    "babel-loader": "^8.2.5",
+    "css-loader": "^6.7.1",
+    "html-webpack-plugin": "^5.5.0",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.73.0",
+    "webpack-cli": "^4.10.0",
+    "webpack-dev-server": "^4.9.2"
+  }
+}
