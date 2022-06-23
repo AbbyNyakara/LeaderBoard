@@ -15,7 +15,7 @@ body {
 }
 
 h1 {
-  color: #4C3A51;
+  color: #4c3a51;
   font-family: 'McLaren', cursive;
   font-size: 2.5em;
 }
@@ -39,7 +39,7 @@ h1 {
 }
 
 .scores > p {
-  background-color: #9CB4CC;
+  background-color: #ddd;
   padding: 10px;
   border: none;
   border-radius: 5px;
@@ -49,7 +49,7 @@ h1 {
 }
 
 .scores > p:nth-child(odd) {
-  background-color: #D3CEDF;
+  background-color: #eee;
 }
 
 .right {
@@ -58,7 +58,7 @@ h1 {
 }
 
 h2 {
-  color: #CDE3EB;
+  color: #cde3eb;
   font-family: 'Montserrat', sans-serif;
 }
 
@@ -81,9 +81,9 @@ button {
   padding: 8px;
   border: none;
   border-radius: 6px;
-  color: #E3EFF3;
+  color: #e3eff3;
   font-family: 'Montserrat', sans-serif;
   cursor: pointer;
-  background-color: #4C3A51;
+  background-color: #4c3a51;
   box-shadow: 0 5px 15px #999;
 }
