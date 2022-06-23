@@ -37,7 +37,7 @@ form.addEventListener('submit', (e) => {
   e.preventDefault();
   const singleScore = {
     user: playerName.value,
-    score: playerScore.value
+    score: playerScore.value,
   };
   addScores(singleScore);
   form.reset();
