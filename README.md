@@ -4,6 +4,8 @@
 
 > Create the leaderboard project. The project should display the various scores submitted by various players. The data is preserved by an external API
 
+## PROJECT IMAGES
+![image](https://user-images.githubusercontent.com/81410040/175281213-55d585d0-9fd7-4d8e-8970-de378d0296bb.png)
 
 ## Built With
 
