@@ -39,7 +39,7 @@ h1 {
 }
 
 .scores > p {
-  background-color: #BDD2B6;
+  background-color: #9CB4CC;
   padding: 10px;
   border: none;
   border-radius: 5px;
@@ -49,7 +49,7 @@ h1 {
 }
 
 .scores > p:nth-child(odd) {
-  background-color: #A2B29F;
+  background-color: #D3CEDF;
 }
 
 .right {
@@ -87,4 +87,3 @@ button {
   background-color: #4C3A51;
   box-shadow: 0 5px 15px #999;
 }
-
